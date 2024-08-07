@@ -1,2 +1,2 @@
-streamlit==1.0.0
-assemblyai==0.2.3
+streamlit==1.37.0
+assemblyai==0.31.0
